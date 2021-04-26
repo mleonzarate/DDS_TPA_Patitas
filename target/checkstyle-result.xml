@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.29">
+<file name="C:\Users\Usuario\Documents\UTN\2021\DDS\TPA_Patitas\src\main\java\ar\edu\frba\dds\patitas\color\Color.java">
+<error line="8" column="3" severity="warning" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck"/>
+</file>
+<file name="C:\Users\Usuario\Documents\UTN\2021\DDS\TPA_Patitas\src\main\java\ar\edu\frba\dds\patitas\mascota\Caracteristicas.java">
+<error line="17" column="3" severity="warning" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck"/>
+</file>
+<file name="C:\Users\Usuario\Documents\UTN\2021\DDS\TPA_Patitas\src\main\java\ar\edu\frba\dds\patitas\mascota\Mascota.java">
+<error line="17" column="3" severity="warning" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck"/>
+<error line="31" column="53" severity="warning" message="Parameter name &apos;unaCaracterística&apos; must match pattern &apos;^[a-z]([a-z0-9][a-zA-Z0-9]*)?$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.ParameterNameCheck"/>
+<error line="35" column="40" severity="warning" message="WhitespaceAround: &apos;{&apos; is not preceded with whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+</file>
+<file name="C:\Users\Usuario\Documents\UTN\2021\DDS\TPA_Patitas\src\main\java\ar\edu\frba\dds\patitas\persona\Contacto.java">
+<error line="9" column="3" severity="warning" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck"/>
+</file>
+<file name="C:\Users\Usuario\Documents\UTN\2021\DDS\TPA_Patitas\src\main\java\ar\edu\frba\dds\patitas\persona\Persona.java">
+<error line="17" column="3" severity="warning" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck"/>
+</file>
+<file name="C:\Users\Usuario\Documents\UTN\2021\DDS\TPA_Patitas\src\main\java\ar\edu\frba\dds\patitas\unaorganizacion\UnaOrganizacion.java">
+<error line="8" severity="warning" message="Separación extra en el grupo de importación antes &apos;java.util.ArrayList&apos;" source="com.puppycrawl.tools.checkstyle.checks.imports.CustomImportOrderCheck"/>
+<error line="13" column="3" severity="warning" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck"/>
+<error line="13" column="26" severity="warning" message="&apos;(&apos; está seguido de espacios en blanco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.ParenPadCheck"/>
+<error line="15" severity="warning" message="Bloquear comentario tiene nivel incorrecto muesca 3, que se espera es 4, la sangría debe estar al mismo nivel que la línea 24." source="com.puppycrawl.tools.checkstyle.checks.indentation.CommentsIndentationCheck"/>
+</file>
+</checkstyle>
